@@ -348,7 +348,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  background-image: url("../img/hero3-bg.png");
+  background-image: url("../img/hero-bg.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: right top;
